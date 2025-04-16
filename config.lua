@@ -185,12 +185,12 @@ return {
     },
 
     skillchecks = {
-        ["stevo_chopshop:1"] = {'easy', 'easy', 'easy'}, -- Bonnet
+        ["stevo_chopshop:1"] = {'easy', 'easy', 'easy', 'medium'}, -- Bonnet
         ["stevo_chopshop:2"] = {'easy', 'easy', 'easy', 'easy'}, -- Front dri Door
         ["stevo_chopshop:3"] = {'easy', 'easy', 'easy', 'easy'}, -- Front pas Door
         ["stevo_chopshop:4"] = {'easy', 'easy', 'easy', 'easy'}, -- Back dri Door
         ["stevo_chopshop:5"] = {'easy', 'easy', 'easy', 'easy'}, -- Back pas Door
-        ["stevo_chopshop:6"] = {'easy', 'easy', 'easy'}, -- Boot
+        ["stevo_chopshop:6"] = {'easy', 'easy', 'easy', 'medium'}, -- Boot
         ["stevo_chopshop:7"] = {'easy', 'easy', 'easy'}, -- Front dri wheel
         ["stevo_chopshop:8"] = {'easy', 'easy', 'easy'}, -- Front pas wheel
         ["stevo_chopshop:9"] = {'easy', 'easy', 'easy'}, -- Back dri wheel
